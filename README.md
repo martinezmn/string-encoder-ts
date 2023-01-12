@@ -3,7 +3,7 @@
 To clone the repository, use the following commands:
 
 ```sh
-git clone https://github.com/martinezmn/node-typescript-boilerplate.git
+git clone https://github.com/martinezmn/string-encoder-ts.git
 cd node-typescript-boilerplate
 npm install
 ```
